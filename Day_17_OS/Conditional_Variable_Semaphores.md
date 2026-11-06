@@ -126,4 +126,4 @@ Both let a thread sleep and wake up, but they're designed for different situatio
 
 ---
 
-**Next up — Day 18:** **Rivision** Day 1 to 9.
+**Next up — Day 18:** **Revision Part 1 (Days 1 to 9)**, followed by Revision Part 2 (Days 10 to 17) on Day 19. Then Day 20 covers the Dining Philosophers Problem.
